@@ -1,0 +1,9 @@
+Hashing - A technique used to store the numbers with their frequencies
+ in easy manner (In General) 
+
+
+Question :- You are given an array of size “n” ; 
+you are also given “Q” queries for each of the query 
+please tell how many times a given number occurs in the array 
+
+
