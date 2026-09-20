@@ -4,3 +4,4 @@ Files Pushhed:
   2. Stack
   3. Queues
   4. Linked List
+  5. Trees (BST,Tree)
